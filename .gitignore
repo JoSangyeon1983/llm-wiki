@@ -1,0 +1,9 @@
+# Claude Code 로컬 설정
+.claude/
+
+# Obsidian 로컬 UI 상태 (vault 설정은 공유, workspace는 제외)
+.obsidian/workspace.json
+
+# OS
+Thumbs.db
+.DS_Store
